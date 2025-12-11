@@ -1,0 +1,6 @@
+CREATE TABLE sales (
+id INTEGER PRIMARY KEY AUTOINCREMENT,
+region TEXT,
+month TEXT,
+revenue REAL
+);
